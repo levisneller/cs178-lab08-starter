@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 # Levi Sneller
 # Version 2
+# This is my test for challenge 1
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
